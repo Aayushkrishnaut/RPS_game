@@ -10,6 +10,10 @@ h1{
     line-height: 5rem;
 }
 
+body{
+    background-color:yellow;
+}
+
 .choice:hover {
     opacity: 0.8;
     cursor: pointer;
